@@ -2,6 +2,7 @@
 
 `.
 ├── README.md
+
 └── run.py
 `
 
@@ -14,9 +15,13 @@
 # 3.依赖库
 `
 bert4keras==0.9.8
+
  h5py==2.10.0 
+ 
  Keras==2.3.1
+ 
  tensorflow-gpu==1.14.0
+ 
  tqdm==4.54.1
 `
 
