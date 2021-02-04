@@ -29,13 +29,13 @@
 
 ## 4.1 训练
 
-	将model.py文件第17行修改为 `do_train = True`
+	将model.py文件第17行修改为  do_train = True 
 
-	执行`run run.py `开始训练
+	执行 run run.py  开始训练
 
 ## 4.2 预测
 
-	将model.py文件第17行修改为 `do_train = False`，并根据预测语句修改第223行。
+	将model.py文件第17行修改为 do_train = False ，并根据预测语句修改第223行。
 
-	执行`run run.py`开始训练
+	执行 run run.py 开始训练
 
